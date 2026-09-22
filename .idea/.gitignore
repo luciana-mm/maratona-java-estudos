@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+
+/02-oop-basico/
+/04-heranca/
+/05-abstracao-interfaces/
+/06-polimorfismo-excecoes/
+/07-utilitarias/
+/08-colecoes-generics/
+/09-lambdas-streams/
+/10-threads-concorrencia/
+/11-design-patterns/
+/12-jdbc/
