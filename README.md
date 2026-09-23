@@ -10,7 +10,7 @@ Cada pasta representa um bloco de aulas do curso, com um projeto prático que ap
 
 | # | Bloco | Aulas | Tópicos | Status |
 |---|-------|-------|---------|--------|
-| 01 | [Fundamentos](./01-fundamentos) | 1–38 | Tipos primitivos, operadores, condicionais, laços, arrays | ⬜ |
+| 01 | [Fundamentos](./01-fundamentos) | 1–38 | Tipos primitivos, operadores, condicionais, laços, arrays | 🟨 |
 | 02 | [OOP Básico](./02-oop-basico) | 39–63 | Classes, métodos, encapsulamento, construtores, static | ⬜ |
 | 03 | [Associação](./03-associacao) | 64–71 | Arrays de objetos, associação uni/bidirecional | ⬜ |
 | 04 | [Herança](./04-heranca) | 72–80 | Herança, super, protected, toString, final | ⬜ |
