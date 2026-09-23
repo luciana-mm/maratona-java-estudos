@@ -1,17 +1,22 @@
-# Bloco 02 — OOP Básico
+# Sistema de Cadastro de Produtos
 
-**Aulas:** 39–63
+Projeto simples em Java para praticar Orientação a Objetos e manipulação de listas em memória via console.
 
-## Tópicos
-- Classes e objetos, coesão
-- Métodos, parâmetros e retorno (por valor vs. referência)
-- Referência `this`, varargs
-- Encapsulamento (private, get/set)
-- Sobrecarga de métodos e construtores
-- Modificador `static`
+## Funcionalidades
 
-## Projeto sugerido
-Sistema simples de cadastro (ex: `Produto`, `Cliente`) com CRUD em memória, rodando via console.
+- Cadastrar produto (nome, preço e quantidade)
+- Listar produtos em estoque
+- Editar produto existente
+- Deletar produto
 
-## Status
-⬜ Não iniciado
+## Conceitos Aplicados
+
+- Classes, Objetos e Construtores
+- Encapsulamento (atributos privados com getters e setters)
+- Manipulação de ArrayList (add, get, remove)
+- Estruturas de controle (while, switch-case, for)
+
+## Estrutura do Código
+
+- Produto.java: Classe de domínio com os atributos e métodos de acesso.
+- ProdutoTeste.java: Classe principal com a lógica do menu e interação com o usuário.
